@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ExplorerApp">
+</Property><Property Name="File di soluzione" Value="C:\Users\merli\Desktop\Giada &amp; Jordan\Nanoteck™\Progetti\JEaS (Jordan Explor and Scan)\ExplorerApp.sln">
+</Property><Property Name="Date" Value="mercoledì 27 giugno 2012">
+</Property><Property Name="Time" Value="15:39">
+</Property></Properties><Event ErrorLevel="0" Project="ExplorerApp" Source="ExplorerApp.vbproj" Description="Conversione progetto completata">
+</Event><Event ErrorLevel="3" Project="ExplorerApp" Source="ExplorerApp.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ExplorerApp.sln" Description="Soluzione convertita correttamente">
+</Event><Event ErrorLevel="3" Project="" Source="ExplorerApp.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ExplorerApp" Source="ExplorerApp.vbproj" Description="Analisi completa: aggiornamento non necessario per i file di progetto.">
+</Event></UpgradeLog>

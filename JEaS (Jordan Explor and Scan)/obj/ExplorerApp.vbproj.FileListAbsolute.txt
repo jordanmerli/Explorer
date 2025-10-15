@@ -1,0 +1,76 @@
+C:\Users\Jordan\Desktop\explorerapp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jordan\Desktop\explorerapp\obj\Debug\ExplorerApp.DirectoryScanner.resources
+C:\Users\Jordan\Desktop\explorerapp\obj\Debug\ExplorerApp.DirectoryTreeView.resources
+C:\Users\Jordan\Desktop\explorerapp\obj\Debug\ExplorerApp.ExplorerStyleViewer.resources
+C:\Users\Jordan\Desktop\explorerapp\obj\Debug\ExplorerApp.FileListView.resources
+C:\Users\Jordan\Desktop\explorerapp\obj\Debug\ExplorerApp.MainForm.resources
+C:\Users\Jordan\Desktop\explorerapp\obj\Debug\ExplorerApp.MenuItemView.resources
+C:\Users\Jordan\Desktop\explorerapp\obj\Debug\ExplorerApp.Resources.resources
+C:\Users\Jordan\Desktop\explorerapp\obj\Debug\ExplorerApp.vbproj.GenerateResource.Cache
+C:\Users\Jordan\Desktop\explorerapp\bin\Debug\J-Applicazioni.exe
+C:\Users\Jordan\Desktop\explorerapp\bin\Debug\J-Applicazioni.pdb
+C:\Users\Jordan\Desktop\explorerapp\bin\Debug\J-Applicazioni.xml
+C:\Users\Jordan\Desktop\explorerapp\obj\Debug\J-Applicazioni.exe
+C:\Users\Jordan\Desktop\explorerapp\obj\Debug\J-Applicazioni.xml
+C:\Users\Jordan\Desktop\explorerapp\obj\Debug\J-Applicazioni.pdb
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\J-Applicazioni Esplora+Scansioni\obj\Debug\J-Applicazioni.exe
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\J-Applicazioni Esplora+Scansioni\obj\Debug\J-Applicazioni.xml
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\J-Applicazioni Esplora+Scansioni\obj\Debug\J-Applicazioni.pdb
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\J-Applicazioni Esplora+Scansioni\bin\Debug\J-Applicazioni.exe
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\J-Applicazioni Esplora+Scansioni\bin\Debug\J-Applicazioni.pdb
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\J-Applicazioni Esplora+Scansioni\bin\Debug\J-Applicazioni.xml
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\J-Applicazioni Esplora+Scansioni\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\J-Applicazioni Esplora+Scansioni\obj\Debug\ExplorerApp.DirectoryScanner.resources
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\J-Applicazioni Esplora+Scansioni\obj\Debug\ExplorerApp.DirectoryTreeView.resources
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\J-Applicazioni Esplora+Scansioni\obj\Debug\ExplorerApp.ExplorerStyleViewer.resources
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\J-Applicazioni Esplora+Scansioni\obj\Debug\ExplorerApp.FileListView.resources
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\J-Applicazioni Esplora+Scansioni\obj\Debug\ExplorerApp.MainForm.resources
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\J-Applicazioni Esplora+Scansioni\obj\Debug\ExplorerApp.MenuItemView.resources
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\J-Applicazioni Esplora+Scansioni\obj\Debug\ExplorerApp.Resources.resources
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\J-Applicazioni Esplora+Scansioni\obj\Debug\ExplorerApp.vbproj.GenerateResource.Cache
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\J-Applicazioni Esplora+Scansioni\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\J-Applicazioni Esplora+Scansioni\obj\Release\ExplorerApp.DirectoryScanner.resources
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\J-Applicazioni Esplora+Scansioni\obj\Release\ExplorerApp.DirectoryTreeView.resources
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\J-Applicazioni Esplora+Scansioni\obj\Release\ExplorerApp.ExplorerStyleViewer.resources
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\J-Applicazioni Esplora+Scansioni\obj\Release\ExplorerApp.FileListView.resources
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\J-Applicazioni Esplora+Scansioni\obj\Release\ExplorerApp.MainForm.resources
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\J-Applicazioni Esplora+Scansioni\obj\Release\ExplorerApp.MenuItemView.resources
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\J-Applicazioni Esplora+Scansioni\obj\Release\ExplorerApp.Resources.resources
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\J-Applicazioni Esplora+Scansioni\obj\Release\ExplorerApp.vbproj.GenerateResource.Cache
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\J-Applicazioni Esplora+Scansioni\bin\Debug\J-Applicazioni.exe.manifest
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\J-Applicazioni Esplora+Scansioni\bin\Debug\J-Applicazioni.application
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\J-Applicazioni Esplora+Scansioni\obj\Debug\J-Applicazioni.exe.manifest
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\J-Applicazioni Esplora+Scansioni\obj\Debug\J-Applicazioni.application
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\J-Applicazioni Esplora+Scansioni\bin\Release\JEaS (Jordan Explor and Scan).exe.manifest
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\J-Applicazioni Esplora+Scansioni\bin\Release\JEaS (Jordan Explor and Scan).application
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\J-Applicazioni Esplora+Scansioni\bin\Release\JEaS (Jordan Explor and Scan).exe
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\J-Applicazioni Esplora+Scansioni\bin\Release\JEaS (Jordan Explor and Scan).pdb
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\J-Applicazioni Esplora+Scansioni\bin\Release\JEaS (Jordan Explor and Scan).xml
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\J-Applicazioni Esplora+Scansioni\obj\Release\JEaS (Jordan Explor and Scan).exe.manifest
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\J-Applicazioni Esplora+Scansioni\obj\Release\JEaS (Jordan Explor and Scan).application
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\J-Applicazioni Esplora+Scansioni\obj\Release\JEaS (Jordan Explor and Scan).exe
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\J-Applicazioni Esplora+Scansioni\obj\Release\JEaS (Jordan Explor and Scan).xml
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\J-Applicazioni Esplora+Scansioni\obj\Release\JEaS (Jordan Explor and Scan).pdb
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\JEaS (Jordan Explor and Scan)\obj\Release\JEaS (Jordan Explor and Scan).exe
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\JEaS (Jordan Explor and Scan)\obj\Release\JEaS (Jordan Explor and Scan).xml
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\JEaS (Jordan Explor and Scan)\obj\Release\JEaS (Jordan Explor and Scan).pdb
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\JEaS (Jordan Explor and Scan)\bin\Debug\JEaS (Jordan Explor and Scan).exe.manifest
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\JEaS (Jordan Explor and Scan)\bin\Debug\JEaS (Jordan Explor and Scan).application
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\JEaS (Jordan Explor and Scan)\bin\Debug\JEaS (Jordan Explor and Scan).exe
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\JEaS (Jordan Explor and Scan)\bin\Debug\JEaS (Jordan Explor and Scan).pdb
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\JEaS (Jordan Explor and Scan)\bin\Debug\JEaS (Jordan Explor and Scan).xml
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\JEaS (Jordan Explor and Scan)\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\JEaS (Jordan Explor and Scan)\obj\Debug\ExplorerApp.DirectoryScanner.resources
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\JEaS (Jordan Explor and Scan)\obj\Debug\ExplorerApp.DirectoryTreeView.resources
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\JEaS (Jordan Explor and Scan)\obj\Debug\ExplorerApp.ExplorerStyleViewer.resources
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\JEaS (Jordan Explor and Scan)\obj\Debug\ExplorerApp.FileListView.resources
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\JEaS (Jordan Explor and Scan)\obj\Debug\ExplorerApp.MainForm.resources
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\JEaS (Jordan Explor and Scan)\obj\Debug\ExplorerApp.MenuItemView.resources
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\JEaS (Jordan Explor and Scan)\obj\Debug\ExplorerApp.Resources.resources
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\JEaS (Jordan Explor and Scan)\obj\Debug\ExplorerApp.vbproj.GenerateResource.Cache
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\JEaS (Jordan Explor and Scan)\obj\Debug\JEaS (Jordan Explor and Scan).exe.manifest
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\JEaS (Jordan Explor and Scan)\obj\Debug\JEaS (Jordan Explor and Scan).application
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\JEaS (Jordan Explor and Scan)\obj\Debug\JEaS (Jordan Explor and Scan).exe
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\JEaS (Jordan Explor and Scan)\obj\Debug\JEaS (Jordan Explor and Scan).xml
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\JEaS (Jordan Explor and Scan)\obj\Debug\JEaS (Jordan Explor and Scan).pdb
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\JEaS (Jordan Explor and Scan)\obj\Debug\ExplorerApp.Form1.resources

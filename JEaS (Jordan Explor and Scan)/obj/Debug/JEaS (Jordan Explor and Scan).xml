@@ -1,0 +1,83 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+JEaS(JordanExplorandScan)
+</name>
+</assembly>
+<members>
+<member name="M:ExplorerApp.FileListView.OnItemActivate(System.EventArgs)">
+	<summary>
+ Esegue l'override del gestore eventi OnItemActivate della classe di base. Estende l'implementazione della
+ classe di base per consentire l'esecuzione di qualsiasi file con estensione exe o di qualsiasi file a cui sia associato un eseguibile.
+ </summary>
+</member><member name="M:ExplorerApp.FileListView.ShowFiles(System.String)">
+	<summary>
+ Questa subroutine è utilizzata per visualizzare un elenco di tutti i file nella directory
+ correntemente selezionata dall'utente nel controllo TreeView personalizzato.
+ </summary>
+</member><member name="M:ExplorerApp.DirectoryScanner.DirectoryScanner_Load(System.Object,System.EventArgs)">
+	<summary>
+ Gestisce l'evento Load per DirectoryScanner.
+ </summary>
+</member><member name="M:ExplorerApp.DirectoryScanner.AddToListView(System.String,System.String)">
+	<summary>
+ Questa subroutine aggiunge l'oggetto strSubDirectory selezionato dall'utente in TreeView 
+ a ListView e imposta testo, dimensione e colore.
+ </summary>
+</member><member name="M:ExplorerApp.DirectoryScanner.GetSizeColor(System.String)">
+	<summary>
+ Questa subroutine restituisce un colore in base alla combinazione delle dimensioni della directory 
+ e di tutte le relative sottodirectory. Si tratta di uno dei due overload disponibili.
+ </summary>
+</member><member name="M:ExplorerApp.DirectoryScanner.GetSizeColor(System.Int64)">
+	<summary>
+ Questa funzione restituisce un colore in base alla combinazione delle dimensioni della directory 
+ e di tutte le relative sottodirectory. Si tratta del secondo dei due overload disponibili.
+ </summary>
+</member><member name="M:ExplorerApp.DirectoryScanner.GetDirectorySize(System.String,ExplorerApp.DirectoryNode)">
+	<summary>
+ Questa funzione restituisce le dimensioni di una directory e di tutte le relative sottodirectory.
+ </summary>
+</member><member name="M:ExplorerApp.DirectoryScanner.ShowSubDirectories(ExplorerApp.DirectoryNode)">
+	<summary>
+ Quando il nodo di una directory viene espanso, aggiungere le relative sottodirectory al controllo ListView. 
+ </summary>
+</member><member name="M:ExplorerApp.DirectoryScanner.exitToolStripMenuItem_Click(System.Object,System.EventArgs)">
+	<summary>
+ Chiudere l'applicazione
+ </summary>
+</member><member name="M:ExplorerApp.DirectoryScanner.TreeView1_AfterExpand(System.Object,System.Windows.Forms.TreeViewEventArgs)">
+	<summary>
+ Gestisce l'evento AfterExpand per TreeView, che non si verifica dopo la
+ selezione di TreeView, bensì dopo che tramite l'applicazione è stato stabilito che il tentativo dell'utente
+ di espandere il nodo può essere consentito. Il gestore eventi BeforeExpand 
+ viene utilizzato per prendere questa decisione, se lo si desidera. Tutti gli eventi Before______ passano un oggetto TreeViewCancelEventArgs contenente una proprietà Cancel.
+ Questa proprietà può essere utilizzata per respingere l'azione dell'utente. L'evento "AfterExpand"
+ potrebbe pertanto essere denominato anche "AfterExpandApproval".
+ </summary>
+</member><member name="M:ExplorerApp.DirectoryScanner.TreeView1_AfterSelect(System.Object,System.Windows.Forms.TreeViewEventArgs)">
+	<summary>
+ Gestisce l'evento AfterSelect per TreeView, che non si verifica dopo la 
+ selezione di TreeView, bensì dopo che tramite l'applicazione è stato stabilito che il tentativo dell'utente 
+ di selezionare il nodo può essere consentito. Il gestore eventi BeforeSelect 
+ viene utilizzato per prendere questa decisione, se lo si desidera. Tutti gli eventi Before______ passano un oggetto TreeViewCancelEventArgs contenente una proprietà Cancel.
+ Questa proprietà può essere utilizzata per respingere l'azione dell'utente. L'evento "AfterSelect"
+ potrebbe pertanto essere denominato anche "AfterSelectApproval".
+ </summary>
+</member><member name="P:ExplorerApp.My.Resources.Resources.ResourceManager">
+	<summary>
+   Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ExplorerApp.My.Resources.Resources.Culture">
+	<summary>
+   Overrides the current thread's CurrentUICulture property for all
+   resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:ExplorerApp.My.Resources.Resources">
+	<summary>
+   A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
